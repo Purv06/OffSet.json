@@ -1,169 +1,196 @@
-[
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/-6307725980818582761_121.jpg",
-      "name": "wall 1"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/-6318585462029135135_121.jpg",
-      "name": "wall 2"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/Backgrounds-page-003.jpg",
-      "name": "wall 3"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/Backgrounds-page-009.jpg",
-      "name": "wall 4"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/Backgrounds-page-013.jpg",
-      "name": "wall 5"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/Backgrounds-page-018.jpg",
-      "name": "wall 6"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20190829_221235.jpg",
-      "name": "wall 7"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20191106_181639.jpg",
-      "name": "wall 8"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20191106_181730.jpg",
-      "name": "wall 9"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20191205_125638.jpg",
-      "name": "wall 10"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20191205_130149.jpg",
-      "name": "wall 11"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20191205_130238.jpg",
-      "name": "wall 12"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20200222_210002.jpg",
-      "name": "wall 13"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20200227_210033.jpg",
-      "name": "wall 14"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20200511_143601.jpg",
-      "name": "wall 15"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20201208_001436.jpg",
-      "name": "wall 16"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20201208_001452.jpg",
-      "name": "wall 17"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20201208_001618.jpg",
-      "name": "wall 18"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20210116_190848.jpg",
-      "name": "wall 19"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20210301_203751.jpg",
-      "name": "wall 20"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20210603_211425.jpg",
-      "name": "wall 21"
-    },
-     {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20210615_225403.jpg",
-      "name": "wall 22"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20210716_111800_753.jpg",
-      "name": "wall 23"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20210719_114451.jpg",
-      "name": "wall 24"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20210720_125643_504.jpg",
-      "name": "wall 25"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20210720_125645_696.jpg",
-      "name": "wall 26"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/Setup%205%20Wallpapers%20Gradient_page-0001.jpg",
-      "name": "wall 27"
+[{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/IMG_20230726_152322_173.jpg",
+		"name": "Amoled 27",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/IMG_20230726_152322_377.jpg",
+		"name": "Amoled 28",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/IMG_20230726_152322_628.jpg",
+		"name": "Amoled 29",
+		"collections": "Amoled"
+	},
 
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/Wolf%20Saturated.jpg",
-      "name": "wall 28"
 
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/Untitled-1_page-0001%20(1).jpg",
-      "name": "wall 29"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20210728_205037.jpg",
-      "name": "wall 30"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/IMG_20210728_205100.jpg",
-      "name": "wall 31"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/wp2.png",
-      "name": " wall 32"
-    },
-    {
-      "author": "Customize n Tricks",
-      "url": "https://raw.githubusercontent.com/Purv06/Monochrome.json/main/Screenshot_20190921-123525.png",
-      "name": "wall 33"
-    }
+
+
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/SmartAnimals/1690562110591.jpg",
+		"name": "Smart 33",
+		"collections": "Smart"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/SmartAnimals/1690562249218.jpg",
+		"name": "Smart 34",
+		"collections": "Smart"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/SmartAnimals/1690562366251.jpg",
+		"name": "Smart 35",
+		"collections": "Smart"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/SmartAnimals/IMG_20230726_141352_863.jpg",
+		"name": "Smart 36",
+		"collections": "Smart"
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/1690565953775.jpg",
+		"name": "Minimal 56",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/1690565981927.jpg",
+		"name": "Minimal 57",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/1690566046392.jpg",
+		"name": "Minimal 59",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/1690566092432.jpg",
+		"name": "Minimal 60",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141321_545.jpg",
+		"name": "Minimal 61",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_157.jpg",
+		"name": "Minimal 62",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_173.jpg",
+		"name": "Minimal 63",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_288.jpg",
+		"name": "Minimal 64",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_553.jpg",
+		"name": "Minimal 65",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_589.jpg",
+		"name": "Minimal 66",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_730.jpg",
+		"name": "Minimal 67",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_761.jpg",
+		"name": "Minimal 68",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_862.jpg",
+		"name": "Minimal 69",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141352_352.jpg",
+		"name": "Minimal 70",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141353_118.jpg",
+		"name": "Minimal 71",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/PhotoFix_1690567366936.jpeg",
+		"name": "Minimal 72",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/PhotoFix_1690567401834.jpeg",
+		"name": "Minimal 73",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/PhotoFix_1690567460430.jpeg",
+		"name": "Minimal 74",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_152322_566.jpg",
+		"name": "Minimal 75",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/PhotoFix_1690567198028.jpeg",
+		"name": "Minimal 76",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/PhotoFix_1690567239490.jpeg",
+		"name": "Minimal 77",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/PhotoFix_1690567280609.jpeg",
+		"name": "Minimal 78",
+		"collections": "Minimal"
+	}
 ]
