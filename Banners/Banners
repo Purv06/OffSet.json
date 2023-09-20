@@ -3,17 +3,22 @@
 {
     
     "link": "https://play.google.com/store/apps/details?id=dev.sarthak.symmetrics",
-    "banner": "https://i.imgur.com/LqWtwD6.jpg"
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/Feature%20Image.png"
 },
 
 {
     
     "link": "https://play.google.com/store/apps/details?id=dev.sarthak.symmetrics",
-    "banner": "https://i.imgur.com/LqWtwD6.jpg"
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/IMG_20221129_232328_598.jpg"
 },
 {
     
     "link": "https://play.google.com/store/apps/details?id=dev.sarthak.symmetrics",
-    "banner": "https://i.imgur.com/LqWtwD6.jpg"
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/New%20Walls%20July.jpg"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=dev.sarthak.symmetrics",
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/Slide2.JPG"
 }
 ]
