@@ -2,52 +2,62 @@
 
 {
     
-    "link": "https://play.google.com/store/apps/details?id=minimal.dd.walls",
-    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/Feature%20Image.png"
-},
-{
-    
-    "link": "https://play.google.com/store/apps/details?id=monochromepro.kustom.pack",
-    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/IMG_20221129_232328_598.jpg"
-},
-{
-    
-    "link": "https://play.google.com/store/apps/details?id=wonder.cnt.walls",
-    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/New%20Walls%20July.jpg"
-},
-{
-    
-    "link": "https://play.google.com/store/apps/details?id=choice.cnt.kwgt",
-    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/Slide2.JPG"
+    "link": "https://play.google.com/store/apps/details?id=offset.dd.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/1.png"
 },
 {
     
     "link": "https://play.google.com/store/apps/details?id=minimal.dd.walls",
-    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/Feature%20Image.png"
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/2.png"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=miui13.cnt.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/3.png"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=wonder.cnt.walls",
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/4.png"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=specials.dd.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/5.png"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=crown.dd.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/6.png"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=star.dd.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/7.png"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=peacock.cnt.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/8.png"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=wallfab.dd.walls",
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/9.png"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=choice.cnt.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/10.png"
+},
+{
+    
+    "link": "https://play.google.com/store/apps/details?id=placid.dd.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/11.png"
 },
 {
     
     "link": "https://play.google.com/store/apps/details?id=monochromepro.kustom.pack",
-    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/IMG_20221129_232328_598.jpg"
-},
-{
-    
-    "link": "https://play.google.com/store/apps/details?id=wonder.cnt.walls",
-    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/New%20Walls%20July.jpg"
-},
-{
-    
-    "link": "https://play.google.com/store/apps/details?id=choice.cnt.kwgt",
-    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/Slide2.JPG"
-},
-{
-    
-    "link": "https://play.google.com/store/apps/details?id=wonder.cnt.walls",
-    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/New%20Walls%20July.jpg"
-},
-{
-    
-    "link": "https://play.google.com/store/apps/details?id=choice.cnt.kwgt",
-    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/Slide2.JPG"
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/12.png"
 }
 ]
