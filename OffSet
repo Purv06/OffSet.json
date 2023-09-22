@@ -1,196 +1,302 @@
-[{
+[
+{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/IMG_20230726_152322_173.jpg",
-		"name": "Amoled 27",
-		"collections": "Amoled"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Apple%20Iphone%20135854.jpg",
+		"name": "OffSet 01",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/IMG_20230726_152322_377.jpg",
-		"name": "Amoled 28",
-		"collections": "Amoled"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Apple%20Iphone%20XR1654.jpg",
+		"name": "OffSet 02",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Amoled/IMG_20230726_152322_628.jpg",
-		"name": "Amoled 29",
-		"collections": "Amoled"
-	},
-
-
-
-
-
-
-
-
-
-	{
-		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/SmartAnimals/1690562110591.jpg",
-		"name": "Smart 33",
-		"collections": "Smart"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Color%20OS%20125794.jpg",
+		"name": "OffSet 03",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/SmartAnimals/1690562249218.jpg",
-		"name": "Smart 34",
-		"collections": "Smart"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Coolshow%20OS%206.03993.jpg",
+		"name": "OffSet 04",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/SmartAnimals/1690562366251.jpg",
-		"name": "Smart 35",
-		"collections": "Smart"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Coolshow%20OS%206.04008.jpg",
+		"name": "OffSet 05",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/SmartAnimals/IMG_20230726_141352_863.jpg",
-		"name": "Smart 36",
-		"collections": "Smart"
-	},
-
-
-
-
-
-
-
-
-
-
-
-
-	{
-		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/1690565953775.jpg",
-		"name": "Minimal 56",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Coolshow%20OS%206.04011.jpg",
+		"name": "OffSet 06",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/1690565981927.jpg",
-		"name": "Minimal 57",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Google%20Pixel%207a6946.jpg",
+		"name": "OffSet 07",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/1690566046392.jpg",
-		"name": "Minimal 59",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Honor%208%20lite237.jpg",
+		"name": "OffSet 08",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/1690566092432.jpg",
-		"name": "Minimal 60",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Huawei%20Honor%20View%20202135.jpg",
+		"name": "OffSet 09",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141321_545.jpg",
-		"name": "Minimal 61",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Huawei%20Honor%20X104436.jpg",
+		"name": "OffSet 10",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_157.jpg",
-		"name": "Minimal 62",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Huawei%20Mate%2010440.jpg",
+		"name": "OffSet 11",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_173.jpg",
-		"name": "Minimal 63",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Huawei%20Mate%2040%20Pro4981.jpg",
+		"name": "OffSet 12",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_288.jpg",
-		"name": "Minimal 64",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Huawei%20Mate%20X25307.png",
+		"name": "OffSet 13",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_553.jpg",
-		"name": "Minimal 65",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Huawei%20Mate%20XS4128.jpg",
+		"name": "OffSet 14",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_589.jpg",
-		"name": "Minimal 66",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Huawei%20Nova%202249.jpg",
+		"name": "OffSet 15",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_730.jpg",
-		"name": "Minimal 67",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Huawei%20P404202.jpg",
+		"name": "OffSet 16",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_761.jpg",
-		"name": "Minimal 68",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Huawei%20P9%20Abstract93.jpg",
+		"name": "OffSet 17",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141322_862.jpg",
-		"name": "Minimal 69",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Infinix%20Hot%20105180.jpg",
+		"name": "OffSet 18",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141352_352.jpg",
-		"name": "Minimal 70",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Infinix%20Hot%20S3X2659.jpg",
+		"name": "OffSet 19",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_141353_118.jpg",
-		"name": "Minimal 71",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Infocus%20Vision%2032836.jpg",
+		"name": "OffSet 20",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/PhotoFix_1690567366936.jpeg",
-		"name": "Minimal 72",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/LG%20G6665.jpg",
+		"name": "OffSet 21",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/PhotoFix_1690567401834.jpeg",
-		"name": "Minimal 73",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/LG%20G7%20Fit3685.jpg",
+		"name": "OffSet 22",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/PhotoFix_1690567460430.jpeg",
-		"name": "Minimal 74",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/LG%20G8x3721.jpg",
+		"name": "OffSet 23",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/IMG_20230726_152322_566.jpg",
-		"name": "Minimal 75",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/LG%20K71143.jpg",
+		"name": "OffSet 24",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/PhotoFix_1690567198028.jpeg",
-		"name": "Minimal 76",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/LG%20V30640.jpg",
+		"name": "OffSet 25",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/PhotoFix_1690567239490.jpeg",
-		"name": "Minimal 77",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Lava%20Agni%205G6053.jpg",
+		"name": "OffSet 26",
+		"collections": "OffSet"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Minimal/PhotoFix_1690567280609.jpeg",
-		"name": "Minimal 78",
-		"collections": "Minimal"
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/MIUI%2011%20Concept4145.jpg",
+		"name": "OffSet 27",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/MIUI%20113323.jpg",
+		"name": "OffSet 28",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Meizu%2017%20Pro4379.jpg",
+		"name": "OffSet 29",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Meizu%20206904.jpg",
+		"name": "OffSet 30",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Meizu%20U20807.jpg",
+		"name": "OffSet 31",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Micromax%20In%20Note%2026247.jpg",
+		"name": "OffSet 32",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/OPPO%20Reno%2044488.jpg",
+		"name": "OffSet 33",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/OPPO%20Reno%208%20Pro6419.jpg",
+		"name": "OffSet 34",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/OnePlus%207T3453.png",
+		"name": "OffSet 35",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Samsung%20A8%202018867.jpg",
+		"name": "OffSet 36",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Samsung%20C9%20Pro4391.png",
+		"name": "OffSet 37",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Samsung%20C9%20Pro4394.png",
+		"name": "OffSet 38",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Samsung%20Galaxy%20A703130.jpg",
+		"name": "OffSet 39",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Samsung%20Galaxy%20S204021.jpg",
+		"name": "OffSet 40",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Samsung%20Note%204476.jpg",
+		"name": "OffSet 41",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Samsung%20s6470.jpg",
+		"name": "OffSet 42",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Sharp%20Aquos%20Z33547.jpg",
+		"name": "OffSet 43",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Sony%20Xperia%2010%20V7004.png",
+		"name": "OffSet 44",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Sony%20Xperia%20Z1213.jpg",
+		"name": "OffSet 45",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Tecno%20Phantom%20X2%20Pro6715.jpg",
+		"name": "OffSet 46",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Vivo%20V173837.jpg",
+		"name": "OffSet 47",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Vivo%20y504331.png",
+		"name": "OffSet 48",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/Xiaomi%20Mi%208%20Youth1691.jpg",
+		"name": "OffSet 49",
+		"collections": "OffSet"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/OffSet/ZTE%20Blade%20V91241.jpg",
+		"name": "OffSet 50",
+		"collections": "OffSet"
 	}
 ]
