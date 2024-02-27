@@ -1,7 +1,14 @@
 [
 
-{
-    
+{   
+    "link": "https://play.google.com/store/apps/details?id=hyperos.dd.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/HyperOS.png"
+},
+{  
+    "link": "https://play.google.com/store/apps/details?id=lime.dd.kwgt",
+    "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/Lime.png"
+},
+{  
     "link": "https://play.google.com/store/apps/details?id=offset.dd.kwgt",
     "banner": "https://raw.githubusercontent.com/Purv06/OffSet.json/main/Banners/1.png"
 },
